@@ -1,6 +1,8 @@
 # Zeti's Developer Test
  
 Thanks for taking the time to do this test and apply to work at Zeti. This test should take no more than 4 hours. This test is not language specific, however the test should be taken in whatever language has been specified by your recruitment contact. If you have any questions, please get in touch either through an issue on this repository or via email to hello@zeti.group or your usual contact. Submissions should be done by sending a link to your own (private) GitHub repo to your recruitment contact, or however they have asked you to do it. If you are sending over a private GitHub repository, please makesure to add danbasszeti to the users allowed to see the repository. Please don't fork this repo to submit.
+
+Important thing to note - the use of AI as an assistant only is permitted on this test. However you must disclose on your readme.md file exactly where you used it and what for. If you fail to do this and our tooling detects likely AI usage then your application is likely to be rejected. 
 ## Details
 
 Bill a customer for the usage of their fleet of 2 vehicles.
